@@ -1,0 +1,10 @@
+{
+	"name": "autoscaler-nodedemo",
+	"version": "0.0.1",
+	"description": "A sample nodejs app for autoscaler",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"engines":{"node": "8.x"},
+	"repository": {}
+}
